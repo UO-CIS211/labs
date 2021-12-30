@@ -1,2 +1,3 @@
-# labs
-Codes and solutions for labs
+# CIS211 Labs
+
+Code templates and solutions for labs
